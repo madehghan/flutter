@@ -9,3 +9,9 @@ Text(
 style: TextStyle(
 color: Colors.amber,
 ),
+
+
+// on tap
+onTap: (){
+
+},
